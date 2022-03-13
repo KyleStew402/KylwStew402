@@ -1,6 +1,8 @@
 ![](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
+![Html](https://img.shields.io/badge/-Html-000?&logo=Html)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -24,12 +26,12 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)]
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)]
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)]
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)]
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)]
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)]
+![](https://img.shields.io/badge/-🧬%20My%20Website-000)
+![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)
 
 ### Cybersecurity Projects
