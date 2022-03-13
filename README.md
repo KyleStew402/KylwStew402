@@ -1,7 +1,7 @@
 ![](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
-![Html](https://img.shields.io/badge/-Html-000?&logo=Html)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
