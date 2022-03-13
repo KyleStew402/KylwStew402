@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://www.aalpha.net/wp-content/uploads/2020/12/Hiring-Full-Stack-Developers.png)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 ![HTML]
